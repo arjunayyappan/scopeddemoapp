@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_snc_scoped_demo.TestingScriptDelete</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>TestingScriptDelete</name>
+        <script><![CDATA[var TestingScriptDelete = Class.create();
+TestingScriptDelete.prototype = {
+    initialize: function() {
+    },
+
+    type: 'TestingScriptDelete'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>arjun.ayyappan@snc</sys_created_by>
+        <sys_created_on>2025-01-06 06:41:08</sys_created_on>
+        <sys_id>662e136387fa5210344bddb83cbb35e6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TestingScriptDelete</sys_name>
+        <sys_package display_value="scoped demo app" source="x_snc_scoped_demo">83f1132787ba5210344bddb83cbb35e6</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="scoped demo app">83f1132787ba5210344bddb83cbb35e6</sys_scope>
+        <sys_update_name>sys_script_include_662e136387fa5210344bddb83cbb35e6</sys_update_name>
+        <sys_updated_by>arjun.ayyappan@snc</sys_updated_by>
+        <sys_updated_on>2025-01-06 06:41:08</sys_updated_on>
+    </sys_script_include>
+</record_update>
