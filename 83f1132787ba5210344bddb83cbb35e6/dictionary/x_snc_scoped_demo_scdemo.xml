@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="7742d36787ba5210344bddb83cbb35e5" label="scdemo" max_length="40" name="x_snc_scoped_demo_scdemo" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Column one" max_length="40" name="column_one" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Column two" max_length="40" name="column_two" type="string"/>
+    </element>
+</database>
