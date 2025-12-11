@@ -32,15 +32,15 @@
         <sys_created_by>arjun.ayyappan@snc</sys_created_by>
         <sys_created_on>2025-01-06 05:47:41</sys_created_on>
         <sys_id>83f1132787ba5210344bddb83cbb35e6</sys_id>
-        <sys_mod_count>25</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-12-11 05:55:45</sys_updated_on>
+        <sys_mod_count>26</sys_mod_count>
+        <sys_updated_by>arjun_admin</sys_updated_by>
+        <sys_updated_on>2025-12-11 05:58:31</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>1.0.95</version>
+        <version>1.0.96</version>
     </sys_app>
 </record_update>
